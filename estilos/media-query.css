@@ -4,6 +4,7 @@
 	
 	#login {
 		width: 80vw;
+		height: 320px;
 	}
 	
 	#imagem {
@@ -23,6 +24,7 @@
 	
 	#login {
 		width: 950px;
+		height: 400px;
 	}
 	
 	#imagem {
@@ -35,4 +37,17 @@
 		float: left;
 		width: 50%;
 	}
+	
+	#formulario > h1 {
+		font-size: 3em;
+	}
+	
+	#formulario > p {
+		font-size: 1.2em;
+		margin: 20px 0px;
+	}
+	
+	form > .botao {
+		margin-top: 40px;
+}
 }
