@@ -47,6 +47,17 @@
 		margin: 20px 0px;
 	}
 	
+	.campo > input {
+	background-color: #a6e9e6;
+	font-size: 1em;
+	width: calc(100% - 45px);
+	height: 97%;
+	border: none;
+	border-radius: 0px 10px 10px 0px;
+	padding: 5px;
+	transform: translate(0px, -11.7px);
+}
+	
 	form > .botao {
 		margin-top: 40px;
 }
